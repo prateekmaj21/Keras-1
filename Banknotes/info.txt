@@ -1,0 +1,3 @@
+To check if a banknote is real or fake. 
+0- Fake
+1- Real
